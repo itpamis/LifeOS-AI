@@ -1,0 +1,11 @@
+
+.env
+.venv/
+__pycache__/
+*.pyc
+/data/
+/main_backup.py
+/main_chat_backup.py
+/main_pre.py
+/main_precisao_backup.py
+/teste_notion.py
